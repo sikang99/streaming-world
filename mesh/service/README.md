@@ -11,6 +11,7 @@
 ### Information
 - [eBPF](https://ebpf.io/) - sandboxed application in the kernel
 - [Envoy](https://www.envoyproxy.io/) - Open Source Edga and Service Proxy, designed for cloud-native applications
+- [Linkerd](https://linkerd.io/) - A different kind of service mesh
 - [Cilium](https://cilium.io/) - eBPF-based Networking, Observability, Security
 
 
