@@ -3,6 +3,7 @@
 
 
 ### Articles
+- 2022/01/25 [Service Mesh in 2021: the ecosystem is emerging](https://www.tetrate.io/blog/service-mesh-in-2021-the-ecosystem-is-emerging/)
 - 2022/01/10 [eBPF and Wasm: Exploring the Future of the Service Mesh Data Plane](https://www.infoq.com/news/2022/01/ebpf-wasm-service-mesh/)
 - 2021/12/01 [Try eBPF-powered Cilium Service Mesh - join the beta program!](https://cilium.io/blog/2021/12/01/cilium-service-mesh-beta)
 - 2021/10/25 [How eBPF Streamlines the Service Mesh](https://thenewstack.io/how-ebpf-streamlines-the-service-mesh/)
