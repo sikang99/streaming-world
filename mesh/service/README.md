@@ -6,8 +6,10 @@
 - 2022/01/25 [Service Mesh in 2021: the ecosystem is emerging](https://www.tetrate.io/blog/service-mesh-in-2021-the-ecosystem-is-emerging/)
 - 2022/01/10 [eBPF and Wasm: Exploring the Future of the Service Mesh Data Plane](https://www.infoq.com/news/2022/01/ebpf-wasm-service-mesh/)
 - 2022/00/00 -----
+- 2021/12/29 [The service mesh in 2022: What's next for Linkerd?](https://linkerd.io/2021/12/29/the-service-mesh-in-2022/)
 - 2021/12/01 [Try eBPF-powered Cilium Service Mesh - join the beta program!](https://cilium.io/blog/2021/12/01/cilium-service-mesh-beta)
 - 2021/10/25 [How eBPF Streamlines the Service Mesh](https://thenewstack.io/how-ebpf-streamlines-the-service-mesh/)
+- 2021/10/01 [eBPF, Cilium, Dataplane V2 and All That Buzz (Part 2)](https://www.doit-intl.com/ebpf-cilium-dataplane-v2-and-all-that-buzz-part-2/)
 - 2021/08/13 [Observability with Zero Code Instrumentation? Meet eBPF](https://logz.io/blog/ebpf-auto-instrumentation-pixie-kubernetes-observability/)
 
 
@@ -21,7 +23,7 @@
 - [lstio](https://istio.io/latest/) - Simplify observability, traffic management, security, and policy with the leading service mesh, v1.13.4
 - [membridge](https://merbridge.io/) - Merbridge: use eBPF to accelerate your mesh
 - [Cilium](https://cilium.io/) - eBPF-based Networking, Observability, Security
-
+- NGINX [Servie Mesh](https://docs.nginx.com/nginx-service-mesh/) - v1.4.0
 
 
 ### Open Source
