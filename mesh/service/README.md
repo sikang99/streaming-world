@@ -3,6 +3,7 @@
 
 
 ### Articles
+- 2022/05/17 [eBPF - The Foundation For Next Generation Observability](https://www.mantisnet.com/blog/ebpf-next-generation-observability)
 - 2022/05/16 [Tetragon - eBPF-based Security Observability & Runtime Enforcement](https://isovalent.com/blog/post/2022-05-16-tetragon)
 - 2022/01/25 [Service Mesh in 2021: the ecosystem is emerging](https://www.tetrate.io/blog/service-mesh-in-2021-the-ecosystem-is-emerging/)
 - 2022/01/10 [eBPF and Wasm: Exploring the Future of the Service Mesh Data Plane](https://www.infoq.com/news/2022/01/ebpf-wasm-service-mesh/)
