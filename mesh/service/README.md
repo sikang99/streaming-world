@@ -15,6 +15,7 @@
 - [Linkerd](https://linkerd.io/) - A different kind of service mesh, v2.10
 - [Solo](https://www.solo.io/) - Application Networking from Edge to Service Mesh
 - [lstio](https://istio.io/latest/) - Simplify observability, traffic management, security, and policy with the leading service mesh, v1.13.4
+- [membridge](https://merbridge.io/) - Merbridge: use eBPF to accelerate your mesh
 - [Cilium](https://cilium.io/) - eBPF-based Networking, Observability, Security
 
 
