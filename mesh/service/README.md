@@ -29,6 +29,10 @@
 - NGINX [Servie Mesh](https://docs.nginx.com/nginx-service-mesh/) - v1.4.0
 
 
+### Informantion
+= 2022 [ebpfとWASMに思いを馳せる2022](https://speakerdeck.com/masayaaoyama/techfeed-conference-2022-ebpf-wasm-amsy810)
+
+
 ### Open Source
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [merbridge/merbridge](https://github.com/merbridge/merbridge) - Use eBPF to speed up your Service Mesh like crossing an Einstein-Rosen Bridge
