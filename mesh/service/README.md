@@ -31,7 +31,8 @@
 
 
 ### Informantion
-= 2022 [ebpfとWASMに思いを馳せる2022](https://speakerdeck.com/masayaaoyama/techfeed-conference-2022-ebpf-wasm-amsy810)
+- [Awesome eBPF](https://project-awesome.org/zoidbergwill/awesome-ebpf)
+- 2022 [ebpfとWASMに思いを馳せる2022](https://speakerdeck.com/masayaaoyama/techfeed-conference-2022-ebpf-wasm-amsy810)
 
 
 ### Slides
