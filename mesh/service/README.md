@@ -36,6 +36,7 @@
 
 
 ### Slides
+- [A pure Go eBPF library](https://lpc.events/event/4/contributions/449/attachments/239/529/A_pure_Go_eBPF_library.pdf)
 - 2022 [Distributed Systems patterns - Spring Cloud, Service Mesh & eBPF](https://speakerdeck.com/maeddes/distributed-systems-patterns-spring-cloud-service-mesh-and-ebpf)
 
 
